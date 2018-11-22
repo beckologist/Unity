@@ -2,7 +2,6 @@ Metro
 PlayerPath?
 C:/Users/becko/Desktop/UnityBasicsBuild
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
 Assets/MyScene.unity
 SceneListEnd?
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LevelReset
